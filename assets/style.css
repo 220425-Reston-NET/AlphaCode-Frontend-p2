@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(134, 99, 53);
+  background-image: url(https://images.mid-day.com/images/images/2022/apr/Pills-a_d.jpg);
+}
+
+#nav1 {
+  margin: 20px;
+  /* style this better */
+}
+
+.sign-up-form {
+  width: 450px;
+  height: 600px;
+  /* margin auto will center this box */
+  margin: auto;
+
+  background-color: rgb(75, 138, 175);
+  border-radius: 4px;
+  /* SAME AS 16px */
+  padding: 1rem;
+}
+/* .sign-up-form:hover{
+  color: green;
+} */
+
+form label {
+}
+
+form input {
+  width: 80%;
+  padding: 8px;
+  margin: 6px;
+  border-radius: 6px;
+  background-color: rgb(113, 177, 113);
+  color: azure;
+  align-items: center;
+}
+
+input:hover {
+  color: rgb(11, 66, 129);
+}
+p {
+  text-align: center;
+  
+}
+#have-account {
+  background-color: rgb(113, 177, 113);
+  margin: 15px;
+  padding: 4px;
+}
+.login-form {
+  width: 450px;
+  height: 400px;
+  /* margin auto will center this box */
+  margin: auto;
+
+  background-color: rgb(75, 138, 175);
+  border-radius: 4px;
+  /* SAME AS 16px */
+  padding: 1rem;
+}
